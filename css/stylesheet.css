@@ -52,7 +52,7 @@
     background-repeat: repeat-x;
     background-size: cover;
 }
-@media (max-width: 400px){
+@media (max-width: 600px){
     .head-main{
         display: inline;
         background-color: red;
